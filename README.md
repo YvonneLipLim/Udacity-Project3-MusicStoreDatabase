@@ -1,4 +1,4 @@
-# YLL_UD_P3_MusicStoreDatabase
+# YLL-Udacity-Project3-MusicStoreDatabase
 TPUD Business Analysis_Digital Music Store Database Project 3
 
 ## Key Objective of Project 3:
