@@ -1,16 +1,27 @@
-# YLL-Udacity-Project3-MusicStoreDatabase
-TPUD Business Analysis_Digital Music Store Database Project 3
+<h1>Udacity  Music Store Database Project 3</h1>
+Temasek Polytechnic Udacity Business Analysis
+<br><br>
 
-## Key Objective of Project 3:
-Run the DB Browser database to get the Chinook database up and running and complete the SQL question sets. Then, build a visual based on the pulled data to present report.
+<h3>Key Objective of Project 3:</h3>
+<p>Run the DB Browser database to get the Chinook database up and running and complete the SQL question sets. Then, build a visual based on the pulled data to present report.
+</p>
+<br>
 
-## Project Requirement:
-SQL Queries:
-1. Write error-free SQL queries.
-2. Use joins and aggregations correctly in SQL queries.
-3. Answer multiple questions using SQL.
+<h3>Project Requirement:</h3>
+<p>SQL Queries:
+  <ol>
+<li>Write error-free SQL queries.</li>
+<li>Use joins and aggregations correctly in SQL queries.</li>
+<li>Answer multiple questions using SQL.</li>
+  </ol>
+</p>
+<br>
 
-Presentation:
-1. Well organized and easy to understand.
-2. Create data visualizations that provide useful information.
-3. Format data visualizations clearly and make good use of labels.
+<h3>Presentation:</h3>
+  <ol>
+<li>Well organized and easy to understand.</li>
+<li>Create data visualizations that provide useful information.</li>
+<li>Format data visualizations clearly and make good use of labels.</li>
+  </ol>
+<br>
+
