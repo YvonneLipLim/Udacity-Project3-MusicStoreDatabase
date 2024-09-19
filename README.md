@@ -1,4 +1,4 @@
-<h1>Udacity  Music Store Database Project 3</h1>
+<h1>Digital Music Store Database Project 3</h1>
 Temasek Polytechnic Udacity Business Analysis
 <br><br>
 
